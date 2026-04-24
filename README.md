@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm <span style="color: #1565C0;">Taufiq</span>
+# Hey there! 👋 I'm ${\color{#4285F4} Taufiq}$
 
 **Cross-Platform Flutter App Engineer** | Mobile Development Android & iOS | Architecture Advocate
 
