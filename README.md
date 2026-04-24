@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Taufiq
 
-**Cross-Platform Flutter App Engineer** | Mobile Development Enthusiast | Architecture Advocate
+**Cross-Platform Flutter App Engineer** | Mobile Development Android & iOS | Architecture Advocate
 
-Welcome to my GitHub! I'm a passionate Flutter developer focused on building scalable, user-centric mobile applications that solve real business problems and drive meaningful impact.
+Welcome to my GitHub! I'm a professional Flutter developer focused on building scalable, user-centric mobile applications that solve real business problems and drive meaningful impact.
 
 ---
 
