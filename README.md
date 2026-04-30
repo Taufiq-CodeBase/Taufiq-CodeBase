@@ -72,9 +72,9 @@ I'm deeply invested in building maintainable, scalable applications:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taufiq-CodeBaseFirst&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taufiq-CodeBase&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufiq-CodeBaseFirst&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taufiq-CodeBase&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
